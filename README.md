@@ -1,12 +1,13 @@
-# FrankJuval.com
-Welcome to my website. It's currently under construction as of May 2021.
 
-You can view the live site at [FrankJuval.com](https://www.frankjuval.com).
+# fjs-c06
+This repo was branch c06 from my main site. 
 
 ## Description
-This site is to simply showcase some of the work I've done over the past several years. Currently, all the work displayed is from my time at Universal Parks & Resorts. Eventually I will add other projects.
+While working on my main site, the use of some of my branches changed from containing features or updates, to being full fledged alternative versions. 
 
-I also like to use this site as a reason to tinker and experiment with design and code. So if you happen to look under the hood and wonder what kind of mad science is going on, you'll know why. 
+After searching for "using branches as storage" I learned it's "good practice" not to use branches as storage and either export said branches as an archive (i.e. zip) or their own individual repos. I chose the latter.
+
+I learned how to export a branch from one repo, [into its own repo here](https://stackoverflow.com/a/2227571/792868).
 
 ## Contributing
 This site is for my personal use. Although, if anyone feels like creating their own version, fork away.
